@@ -5,8 +5,8 @@ TextCraft: Enhancing Documentation with Latex and Markdown in SafeMaker
 
 ## Greek Letters
 
-|    Greek Letters     | Upper Case | Lower Case |
-|:--------------------:|:----------:|:---------:|
+|     Greek Letters      | Upper Case | Lower Case |
+|:----------------------:|:----------:|:---------:|
 |   &Alpha;,$`\alpha`$   |   \Alpha   |   \alpha  |
 |    &Beta;,$`\beta`$    |   \Beta    |   \beta   |
 |   &Gamma;,$`\gamma`$   |   \Gamma   |   \gamma  |
@@ -22,7 +22,7 @@ TextCraft: Enhancing Documentation with Latex and Markdown in SafeMaker
 |      &Nu;,$`\nu`$      |    \NU     |    \nu    |
 |      &Xi;,$`\xi`$      |    \Xi     |    \xi    |
 | &Omicron;,$`\omicron`$ |  \Omicron  |  \omicron |
-|     &\Pi;,$`\pi`$      |    \Pi     |    \pi    |
+|      &Pi;,$`\pi`$      |    \Pi     |    \pi    |
 |     &Rho;,$`\rho`$     |    \Rho    |    \rho   |
 |   &Sigma;,$`\sigma`$   |   \Sigma   |   \sigma  |
 |     &Tau;,$`\tau`$     |    \Tau    |    \tau   |
