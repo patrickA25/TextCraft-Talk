@@ -49,3 +49,18 @@ TextCraft: Enhancing Documentation with Latex and Markdown in SafeMaker
 |     $\nearrow$      |     \nearrow     |      $\searrow$      |      \searrow      |
 |  $\leftharpoonup$   |  \leftharpoonup  |  $\rightharpoonup$   |  \rightharpoonup   |
 | $\leftharpoondown$  | \leftharpoondown | $\rightharpoondown$  | \rightharpoondown  |
+
+
+## Miscellaneous Symbols
+
+|    Symbol    |Latex Syntax |  Symbol  | Latex Syntax |
+|:------------:|:-----:|:--------:|:------------:|
+|   $\infty$   | \infty|$\forall$ |   \forall    |
+|   $\Re $ 	   |\Re 	| $\Im$ |     	\Im     |
+|   $\nabla$   |	\nabla 	| $\exists$ |  	\exists    |
+|  $\partial$  | 	\partial |	 $\nexists$  |	\nexists |  
+| $\emptyset $  |  	\emptyset | $\varnothing$ | 	\varnothing|
+|  $   \wp$      |	\wp 	| $\complement$|  	\complement|
+|   $\neg$  	    |\neg |	 $\cdots$  |	\cdots|
+|  $\square$  	  |\square |	$ \surd$ | 	\surd|
+| $\blacksquare$ |  	\blacksquare |	 $\triangle$ |	\triangle|
