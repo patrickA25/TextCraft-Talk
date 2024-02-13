@@ -64,3 +64,16 @@ TextCraft: Enhancing Documentation with Latex and Markdown in SafeMaker
 |   $\neg$  	    |\neg |	 $\cdots$  |	\cdots|
 |  $\square$  	  |\square |	$ \surd$ | 	\surd|
 | $\blacksquare$ |  	\blacksquare |	 $\triangle$ |	\triangle|
+
+
+## Binary Operation/Relation Symbols
+
+| Symbol | Latex Syntax|  Symbol   | Latex Syntax | 
+| :------: |:------: |:---------:|:------: |
+|  $\times$ | 	\times | 	 $\cdot$ |  	\cdot|
+| $\div$  |	\div 	|  $\cap$   |	\cap|
+| $\cup$  |	\cup 	|  $\neq$   |	\neq|
+| $\leq$ | 	\leq 	|  $\geq$   |	\geq|
+| $\in$ | 	\in 	|  $\perp$  |	\perp|
+| $\notin$ | 	\notin 	| $\subset$ | 	\subset|
+| $\simeq$ | 	\simeq 	| $\approx$ | 	\approx|
