@@ -6,7 +6,7 @@ TextCraft: Enhancing Documentation with Latex and Markdown in SafeMaker
 2. [Arrows](#Arrows)
 3. [Miscellaneous Symbols](#MiscellaneousSymbols)
 3. [Binary Operation/Relation Symbols](#BinaryOperationRelationSymbols)
-4. [Integrals Sums and Limits](#IntegralsSumsandLimits)
+4. [Math Constructs](#MathConstructs)
 5. [Matrix](#Matrix)
 
 <a name="GreekLetters"></a>
@@ -86,17 +86,26 @@ TextCraft: Enhancing Documentation with Latex and Markdown in SafeMaker
 | $\notin$ | 	\notin 	| $\subset$ | 	\subset|
 | $\simeq$ | 	\simeq 	| $\approx$ | 	\approx|
 
-<a name="IntegralsSumsandLimits"></a>
-## Integrals Sums and Limits 
+<a name="MathConstructs"></a>
+## Math Constructs
 
-### Sum
 
-|                Latex Code                |                               Output                                |
-|:----------------------------------------:|:-------------------------------------------------------------------:|
-|     Sum \sum_{n=1}^{\infty} 2^{-n}=1     |                 Sum $$\sum_{n=1}^{\infty} 2^{-n}=1$$                  |
-|    \[ \sum_{n=1}^{\infty} 2^{-n}=1\]     |                 $$\[ \sum_{n=1}^{\infty} 2^{-n}=1 \]$$                 |
-| Product \prod_{i=a}^{b} f(i) inside text |             Product $$\prod_{i=a}^{b} f(i)$$ inside text              |
-|        \[\prod_{i=a}^{b} f(i) \]         |                $$\[\prod_{i=a}^{b} f(i) \] $$                         |
+|         Math Construct         |                Latex Code                |                    Output                    |
+|:------------------------------:|:----------------------------------------:|:--------------------------------------------:|
+|            Sumation            |     Sum \sum_{n=1}^{\infty} 2^{-n}=1     |     Sum $$\sum_{n=1}^{\infty} 2^{-n}=1$$     |
+|            Product             |        \[\prod_{i=a}^{b} f(i) \]         |        $$\[\prod_{i=a}^{b} f(i) \] $$        |
+|           Coproduct            |            \coprod{abc}^{xyz}            |            $$\coprod{abc}^{xyz}$$            |
+|            Integral            |             \int_{abc}^{xyz}             |               \int_{abc}^{xyz}               |
+| Integral Over a Closed Contour |             \oint{abc}{xyz}              |             $$\oint{abc}{xyz}$$              |
+|        Double integral         |            \iint_{abc}^{xyz}             |           $$\iint_{abc}^{xyz}$$              |
+|            Fracton             |             \frac{abc}{xyz}              |             $$\frac{abc}{xyz}$$              |
+|             Prime              |                    f`                    |                    $$f`$$                    |   
+|          Square Root           |                \sqrt{abc}                |                $$\sqrt{abc}$$                |
+|            Nth-Root            |              \sqrt[n]{abc}               |              $$\sqrt[n]{abc}$$               |
+|            Overline            |              \overline{abc}              |              $$\overline{abc}$$              | 
+|           Underline            |             \underline{abc}              |             $$\underline{abc}$$              |
+|            wide hat            |              \widehat{abc}               |              $$\widehat{abc}$$               |
+
 
 <a name="Matrix"></a>
 ## Matrix 
