@@ -7,7 +7,7 @@ TextCraft: Enhancing Documentation with Latex and Markdown in SafeMaker
 3. [Miscellaneous Symbols](#MiscellaneousSymbols)
 3. [Binary Operation/Relation Symbols](#BinaryOperationRelationSymbols)
 4. [Integrals Sums and Limits](#IntegralsSumsandLimits)
-
+5. [Matrix](#Matrix)
 
 <a name="GreekLetters"></a>
 ## Greek Letters 
@@ -99,6 +99,42 @@ TextCraft: Enhancing Documentation with Latex and Markdown in SafeMaker
 |        \[\prod_{i=a}^{b} f(i) \]         |                $\[\prod_{i=a}^{b} f(i) \] $                         |
 
 
-
+<a name="Matrix"></a>
 ## Matrix 
 
+### 3x3 Matrix
+```latex
+\begin{bmatrix}
+\frac{5}{6} & \frac{1}{6} & 0 \\
+\frac{5}{6} & 0 & \frac{1}{6} \\
+0 & \frac{5}{6} & \frac{1}{6}
+\end{bmatrix}
+```
+
+$$\begin{bmatrix}
+\frac{5}{6} & \frac{1}{6} & 0 \\
+\frac{5}{6} & 0 & \frac{1}{6} \\
+0 & \frac{5}{6} & \frac{1}{6}
+\end{bmatrix}$$
+
+### MxN Matrix
+```latex
+$$
+A_{m,n} = 
+\begin{bmatrix}
+a_{1,1} &  a_{1,2} & \cdots & a_{1,n} \\ 
+a_{2,1} &  a_{2,2} & \cdots & a_{2,n} \\
+\vdots & \vdots & \ddots & vdots \\
+a_{m,1} &  a_{m,2} & \cdots & a_{m,n}
+\end{bmatrix}
+$$
+```
+$$
+A_{m,n} =
+\begin{bmatrix}
+a_{1,1} &  a_{1,2} & \cdots & a_{1,n} \\
+a_{2,1} &  a_{2,2} & \cdots & a_{2,n} \\
+\vdots & \vdots & \ddots & vdots \\
+a_{m,1} &  a_{m,2} & \cdots & a_{m,n}
+\end{bmatrix}
+$$
