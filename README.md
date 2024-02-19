@@ -93,11 +93,10 @@ TextCraft: Enhancing Documentation with Latex and Markdown in SafeMaker
 
 |                Latex Code                |                               Output                                |
 |:----------------------------------------:|:-------------------------------------------------------------------:|
-|     Sum \sum_{n=1}^{\infty} 2^{-n}=1     |                 Sum $\sum_{n=1}^{\infty} 2^{-n}=1$                  |
-|    \[ \sum_{n=1}^{\infty} 2^{-n}=1\]     |                 $\[\sum_{n=1}^{\infty} 2^{-n}=1 \]$                 |
-| Product \prod_{i=a}^{b} f(i) inside text |             Product $\prod_{i=a}^{b} f(i)$ inside text              |
-|        \[\prod_{i=a}^{b} f(i) \]         |                $\[\prod_{i=a}^{b} f(i) \] $                         |
-
+|     Sum \sum_{n=1}^{\infty} 2^{-n}=1     |                 Sum $$\sum_{n=1}^{\infty} 2^{-n}=1$$                  |
+|    \[ \sum_{n=1}^{\infty} 2^{-n}=1\]     |                 $$\[ \sum_{n=1}^{\infty} 2^{-n}=1 \]$$                 |
+| Product \prod_{i=a}^{b} f(i) inside text |             Product $$\prod_{i=a}^{b} f(i)$$ inside text              |
+|        \[\prod_{i=a}^{b} f(i) \]         |                $$\[\prod_{i=a}^{b} f(i) \] $$                         |
 
 <a name="Matrix"></a>
 ## Matrix 
