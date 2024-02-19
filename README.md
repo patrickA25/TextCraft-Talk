@@ -9,7 +9,8 @@ TextCraft: Enhancing Documentation with Latex and Markdown in SafeMaker
 4. [Integrals Sums and Limits](#IntegralsSumsandLimits)
 
 
-## Greek Letters <a name="GreekLetters"></a>
+<a name="GreekLetters"></a>
+## Greek Letters 
 
 |     Greek Letters      | Jupyter Notebook Upper Case |Jupyter Notebook Lower Case |
 |:----------------------:|:---------------------------:|:--------------------------:|
@@ -38,7 +39,9 @@ TextCraft: Enhancing Documentation with Latex and Markdown in SafeMaker
 |   &Omega;,$`\omega`$   |           \Omega            |           \omega           |
 
 
-## Arrows <a name="Arrows"></a>
+
+<a name="Arrows"></a>
+## Arrows 
 
 
 |       Symbol        |   Latex Syntax   |       Symbols        |    Latex Syntax    |
@@ -54,8 +57,8 @@ TextCraft: Enhancing Documentation with Latex and Markdown in SafeMaker
 |  $\leftharpoonup$   |  \leftharpoonup  |  $\rightharpoonup$   |  \rightharpoonup   |
 | $\leftharpoondown$  | \leftharpoondown | $\rightharpoondown$  | \rightharpoondown  |
 
-
-## Miscellaneous Symbols <a name="MiscellaneousSymbols"></a>
+<a name="MiscellaneousSymbols"></a>
+## Miscellaneous Symbols 
 
 |    Symbol    |Latex Syntax |  Symbol  | Latex Syntax |
 |:------------:|:-----:|:--------:|:------------:|
@@ -70,7 +73,8 @@ TextCraft: Enhancing Documentation with Latex and Markdown in SafeMaker
 | $\blacksquare$ |  	\blacksquare |	 $\triangle$ |	\triangle|
 
 
-## Binary Operation/Relation Symbols <a name="BinaryOperationRelationSymbols"></a>
+<a name="BinaryOperationRelationSymbols"></a>
+## Binary Operation/Relation Symbols 
 
 | Symbol | Latex Syntax|  Symbol   | Latex Syntax | 
 | :------: |:------: |:---------:|:------: |
@@ -82,8 +86,8 @@ TextCraft: Enhancing Documentation with Latex and Markdown in SafeMaker
 | $\notin$ | 	\notin 	| $\subset$ | 	\subset|
 | $\simeq$ | 	\simeq 	| $\approx$ | 	\approx|
 
-
-## Integrals Sums and Limits <a name="IntegralsSumsandLimits"></a>
+<a name="IntegralsSumsandLimits"></a>
+## Integrals Sums and Limits 
 
 ### Sum
 
