@@ -1,11 +1,15 @@
 # TextCraft-Talk
 TextCraft: Enhancing Documentation with Latex and Markdown in SafeMaker
 
+# Table of Contents
+1. [Greek Letters](#GreekLetters)
+2. [Arrows](#Arrows)
+3. [Miscellaneous Symbols](#MiscellaneousSymbols)
+3. [Binary Operation/Relation Symbols](#BinaryOperationRelationSymbols)
+4. [Integrals Sums and Limits](#IntegralsSumsandLimits)
 
 
-## Greek Letters
-
-### Need to add a section for Github documents in this table
+## Greek Letters <a name="GreekLetters"></a>
 
 |     Greek Letters      | Jupyter Notebook Upper Case |Jupyter Notebook Lower Case |
 |:----------------------:|:---------------------------:|:--------------------------:|
@@ -34,7 +38,7 @@ TextCraft: Enhancing Documentation with Latex and Markdown in SafeMaker
 |   &Omega;,$`\omega`$   |           \Omega            |           \omega           |
 
 
-## Arrows
+## Arrows <a name="Arrows"></a>
 
 
 |       Symbol        |   Latex Syntax   |       Symbols        |    Latex Syntax    |
@@ -51,7 +55,7 @@ TextCraft: Enhancing Documentation with Latex and Markdown in SafeMaker
 | $\leftharpoondown$  | \leftharpoondown | $\rightharpoondown$  | \rightharpoondown  |
 
 
-## Miscellaneous Symbols
+## Miscellaneous Symbols <a name="MiscellaneousSymbols"></a>
 
 |    Symbol    |Latex Syntax |  Symbol  | Latex Syntax |
 |:------------:|:-----:|:--------:|:------------:|
@@ -66,7 +70,7 @@ TextCraft: Enhancing Documentation with Latex and Markdown in SafeMaker
 | $\blacksquare$ |  	\blacksquare |	 $\triangle$ |	\triangle|
 
 
-## Binary Operation/Relation Symbols
+## Binary Operation/Relation Symbols <a name="BinaryOperationRelationSymbols"></a>
 
 | Symbol | Latex Syntax|  Symbol   | Latex Syntax | 
 | :------: |:------: |:---------:|:------: |
@@ -79,7 +83,7 @@ TextCraft: Enhancing Documentation with Latex and Markdown in SafeMaker
 | $\simeq$ | 	\simeq 	| $\approx$ | 	\approx|
 
 
-## Integrals Sums and Limits
+## Integrals Sums and Limits <a name="IntegralsSumsandLimits"></a>
 
 ### Sum
 
