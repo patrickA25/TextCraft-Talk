@@ -8,6 +8,7 @@ TextCraft: Enhancing Documentation with Latex and Markdown in SafeMaker
 3. [Binary Operation/Relation Symbols](#BinaryOperationRelationSymbols)
 4. [Math Constructs](#MathConstructs)
 5. [Matrix](#Matrix)
+6. [Aligning Equations](#AligningEquations)
 
 <a name="GreekLetters"></a>
 ## Greek Letters 
@@ -145,4 +146,28 @@ a_{2,1} &  a_{2,2} & \cdots & a_{2,n} \\
 \vdots & \vdots & \ddots & vdots \\
 a_{m,1} &  a_{m,2} & \cdots & a_{m,n}
 \end{bmatrix}
+$$
+
+<a name="AligningEquations"></a>
+
+```latex
+\begin{align}
+\sigma &= \sqrt{E\left[ \left(X -\mu\right)^2 \right] } \\
+&= \sqrt{E\left[ X^2 \right]+ E\left[\left(-2\mu X\right)\right] +E\left[ \mu^2\right]} \\
+&= \sqrt{E\left[ X^2 \right] -2\mu E\left[X\right] + \mu^2}\\
+&= \sqrt{E\left[X^2 \right]- 2\mu^2 + \mu^2 }\\
+&= \sqrt{E\left[ X^2 \right]-\mu^2}\\
+&= \sqrt{E\left[ X^2 \right] - \left(E\left[X\right]\right)^2}
+\end{align}
+```
+
+$$
+\begin{align}
+\sigma &= \sqrt{E\left[ \left(X -\mu\right)^2 \right] } \\
+&= \sqrt{E\left[ X^2 \right]+ E\left[\left(-2\mu X\right)\right] +E\left[ \mu^2\right]} \\
+&= \sqrt{E\left[ X^2 \right] -2\mu E\left[X\right] + \mu^2}\\
+&= \sqrt{E\left[X^2 \right]- 2\mu^2 + \mu^2 }\\
+&= \sqrt{E\left[ X^2 \right]-\mu^2}\\
+&= \sqrt{E\left[ X^2 \right] - \left(E\left[X\right]\right)^2}
+\end{align}
 $$
