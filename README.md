@@ -1,5 +1,5 @@
 # TextCraft-Talk
-TextCraft: Enhancing Documentation with Latex and Markdown in SafeMaker
+TextCraft: Enhancing Documentation with Latex and Markdown in SageMaker
 
 # Table of Contents
 1. [Greek Letters](#GreekLetters)
