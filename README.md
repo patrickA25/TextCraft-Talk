@@ -1,5 +1,6 @@
 # TextCraft-Talk
-TextCraft: Enhancing Documentation with Latex and Markdown in SageMaker
+Join me for "TextCraft: Enhancing Documentation with LaTeX and Markdown in SageMaker," where we'll explore the powerful capabilities of LaTeX and Markdown to improve your documentation practices. This talk will provide insights into leveraging these tools within SageMaker to create clearer, more effective, and professionally styled documents. Whether you're documenting research, drafting reports, or preparing presentations, you’ll learn how to seamlessly integrate text and code in your workflows, enhancing readability and functionality. Ideal for data scientists, researchers, and anyone interested in advanced documentation techniques.
+
 
 # Table of Contents
 1. [Greek Letters](#GreekLetters)
